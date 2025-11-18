@@ -22,14 +22,6 @@ and **NON-MALICIOUS** way for:
 
 ---
 
-# 🎥 Demo
-
-<p align="center">
-  <img src="demo.gif" width="650">
-</p>
-
----
-
 # 🔥 Features
 
 - 🔐 Reversible pseudo-encryption  
