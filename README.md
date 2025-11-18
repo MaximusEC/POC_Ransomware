@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20by-MAXIMUSEC-00eaff?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/Safe-Ransomware%20Simulator-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SOC%20Ready-CrowdStrike%20%7C%20Defender-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Python-3.8%2B-yellow?style=for-the-badge&logo=python">
 </p>
 
